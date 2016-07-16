@@ -11,7 +11,7 @@ textarea { width: 600px; height: 60px; }
 <p>
     <h3>Input</h3>
     <textarea id="in"></textarea><br/>
-    <input type="submit" value="add quotes !!"/>
+    <input type="submit" value="Escape !!"/>
 </p>
 <P>
     <h3>Output</h3>
@@ -22,7 +22,7 @@ textarea { width: 600px; height: 60px; }
 document.getElementById("go").onsubmit = function() {
     var outEl = document.getElementById("out");
     outEl.innerHTML = document.getElementById("in").value.replace(/"/g, "\\\"");
-    outEl.select()
+    outEl.select();
     return false;
 };
 document.getElementById("in").focus();
