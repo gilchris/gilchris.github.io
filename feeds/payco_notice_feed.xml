@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PAYCO Notices</title>
+  <updated>2024-11-26T08:40:57.605Z</updated>
+  <id>https://developers.payco.com/cs</id>
+  
+  <entry>
+    <title>[SDK] iOS v1.5.12 업데이트 안내</title>
+    <id>https://developers.payco.com/cs/notice/24</id>
+    <updated>2024-09-04T00:00:00.000Z</updated>
+  </entry>
+
+  <entry>
+    <title>[SDK] iOS 업데이트 버전 삭제 안내(v1.5.12 -> 1.5.11)</title>
+    <id>https://developers.payco.com/cs/notice/23</id>
+    <updated>2024-08-19T00:00:00.000Z</updated>
+  </entry>
+
+  <entry>
+    <title>[SDK] Android v1.5.15, iOS v1.5.12 업데이트 내역 안내</title>
+    <id>https://developers.payco.com/cs/notice/22</id>
+    <updated>2024-08-14T00:00:00.000Z</updated>
+  </entry>
+
+  <entry>
+    <title>PAYCO API IP 변경 예정 안내</title>
+    <id>https://developers.payco.com/cs/notice/21</id>
+    <updated>2024-05-30T00:00:00.000Z</updated>
+  </entry>
+
+  <entry>
+    <title>[SDK] Android v1.5.14, iOS v1.5.11 업데이트 내역 안내</title>
+    <id>https://developers.payco.com/cs/notice/20</id>
+    <updated>2024-05-02T00:00:00.000Z</updated>
+  </entry>
+</feed>
